@@ -1,6 +1,6 @@
 GLOBAL QUANT
 Institutional-Grade Quantitative Trading & Market Intelligence Engine
-ARES GLOBAL QUANT is a high-performance algorithmic trading system designed to identify high-probability trade setups by synthesizing Smart Money Concepts (SMC), Quantitative Analysis, and Real-time Orderflow data. Unlike retail bots, ARES uses a weighted scoring system and institutional-grade risk management to execute trades with precision.
+GLOBAL QUANT is a high-performance algorithmic trading system designed to identify high-probability trade setups by synthesizing Smart Money Concepts (SMC), Quantitative Analysis, and Real-time Orderflow data. Unlike retail bots, ARES uses a weighted scoring system and institutional-grade risk management to execute trades with precision.
 
 Technical Architecture
 The system is built on a modular Adapter-Engine-Execution architecture to ensure scalability, low latency, and fault tolerance.
@@ -68,4 +68,4 @@ Sektörel Dil: "Quantitative Trading", "Orderbook Imbalance", "Slippage" gibi te
 Mimari Şema: Sadece kurulumu değil, veri akışını (Sinyal $\rightarrow$ Risk $\rightarrow$ Execution) açıkladım.
 Güvenilirlik: Risk yönetimi ve "Kill-Switch" gibi detaylara vurgu yaparak, botun sadece kâr odaklı değil, "hayatta kalma" odaklı olduğunu belirttim.
 Görsellik: Tablolar ve emoji'lerle zenginleştirerek, okuyucunun sıkılmadan tüm özellikleri görmesini sağladım.
-Artık GitHub'a yüklediğinde, projen sadece bir kod yığını olarak değil, profesyonel bir "Trading Product" olarak görünecek. 
+Artık GitHub'a yüklediğinde, projen sadece bir kod yığını olarak değil, profesyonel bir "Trading Product" olarak görünecek....
