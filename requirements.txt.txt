@@ -1,0 +1,8 @@
+python-binance
+pandas
+pandas_ta
+mplfinance
+aiohttp
+python-dotenv
+aiogram
+numpy
